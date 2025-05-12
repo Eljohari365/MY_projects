@@ -1,0 +1,10 @@
+Customers information:- 
+ID: 12343
+Name:Cristiano Ronaldo
+Email: Cr7@sa.com
+Phone: 0116262646
+Customers information :- 
+ID: 11231
+Name:ammar eljohari 
+Email: amsoam@gmail.com
+Phone: 026262
